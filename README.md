@@ -7,8 +7,8 @@
 #### Heading 5
 ###### Heading 6
 
-<!--use html paragraph tag to write a paragraph-->
-<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. <p>
+<!--to write a paragraph-->
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 <!--use single stars both sides for Italic-->
 This text is *italic*
@@ -37,7 +37,7 @@ This text is **BOLD**
   for (int i = 0; i < 5; i++)
 ```
 
-<!--horizontal rule-->
+<!--use three hyphens for horizontal rule-->
 ---
 
 <!--upload files by clicking at the bottom of this editor, Attach files button-->
@@ -46,9 +46,13 @@ This text is **BOLD**
  <!--upload images and videos by clicking at the bottom of this editor, Attach files button-->
  ![computer-chip-cpu-3840x2160-9406](https://user-images.githubusercontent.com/85951839/210360047-f987b872-9cfb-42cf-ae35-b99c84000bbf.png)
  
+ This is the [markdown organisation](https://markdownguide.org)
  
+ This is the [w3 schools](https://w3schools.com "w3 schools")
  
- 
+ <francis@gmail.com>
+
+ <https://programiz.com>
  
  
  
